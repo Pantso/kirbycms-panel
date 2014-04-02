@@ -4,42 +4,42 @@ l::set(array(
   
   // global 
   'ok' => 'Ok',
-  'cancel' => 'Cancel',
-  'nochanges' => 'Nothing has changed',
+  'cancel' => 'Ακύρωση',
+  'nochanges' => 'Δεν έχει αλλάξει τίποτα',
 
   // header
   'header.title' => 'Kirby',
-  'header.logout' => 'Logout', 
+  'header.logout' => 'Αποσύνδεση', 
   
   // subheader
-  'subheader.home' => 'Home',  
-  'subheader.site' => 'Your Site',
-  'subheader.info' => 'Info',
+  'subheader.home' => 'Αρχική',  
+  'subheader.site' => 'Η Σελίδα σας',
+  'subheader.info' => 'Πληροφορίες',
 
   // tabs
   'tabs.overview' => 'Overview',
-  'tabs.info' => 'Edit Info',
-  'tabs.content' => 'Content',
-  'tabs.files' => 'Files',
+  'tabs.info' => 'Επεξεργασία Πληροφοριών',
+  'tabs.content' => 'Περιεχόμενο',
+  'tabs.files' => 'Αρχεία',
   'tabs.options' => 'URL',
-  'tabs.preview' => 'Preview',
+  'tabs.preview' => 'Προβολή',
   
   // dashboard
-  'dashboard.edit' => 'Edit',
-  'dashboard.content' => 'Content',
-  'dashboard.content.empty' => 'This page has no content',
-  'dashboard.files' => 'Files',
+  'dashboard.edit' => 'Επεξεργασία',
+  'dashboard.content' => 'Περιεχόμενο',
+  'dashboard.content.empty' => 'Η σελίδα δεν έχει περιεχόμενο',
+  'dashboard.files' => 'Αρχεία',
   'dashboard.template' => 'Template',
-  'dashboard.stats.images' => 'Images', 
-  'dashboard.stats.videos' => 'Videos', 
-  'dashboard.stats.docs' => 'Docs', 
-  'dashboard.stats.sound' => 'Sound', 
-  'dashboard.stats.others' => 'Others', 
+  'dashboard.stats.images' => 'Εικόνες', 
+  'dashboard.stats.videos' => 'Βίντεο', 
+  'dashboard.stats.docs' => 'Έγγραφα', 
+  'dashboard.stats.sound' => 'Ήχοι', 
+  'dashboard.stats.others' => 'Υπόλοιπα', 
 
   // home
-  'home.siteinfo' => 'Site info',
-  'home.edit' => 'Edit',
-  'home.warning.title' => 'Please fix first!',
+  'home.siteinfo' => 'Πληροφορίες ιστοσελίδας',
+  'home.edit' => 'Επεξεργασία',
+  'home.warning.title' => 'Φτιάξτε τα λάθη άμεσα!',
   'home.warning.permissions.title' => 'Permissions',
   'home.warning.permissions.text' => 'The permissions in your content directory are not set properly. Please change the permissions for all folders to <strong>0755</strong> and for all files to <strong>0666</strong>',
   'home.warning.blueprints.title' => 'Blueprints',
